@@ -14,9 +14,6 @@ The main objective of this project is to analyze Swiggy food delivery data and c
 
 
 
-# 📊 Dashboard Preview
-
-![Dashboard](Images/dashboard.png)
 
 
 # 📂 Dataset Information
@@ -58,7 +55,7 @@ The dataset contains food delivery information, including:
 
 These slicers allow users to interactively filter dashboard data.
 
----
+
 
 ### Dashboard Visualizations
 
